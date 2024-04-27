@@ -51,7 +51,10 @@ while True:
 
 
     elif opcao == "E" or opcao == "e":
-        print(extrato)
+        print(f"\n***********Extrato***********")
+        print("você não possui movimentações" if not extrato else extrato)
+        print(f"\n Saldo = R$ {saldo}")
+        print("*****************************")
         aux = input("Dê enter para voltar ao menu")
 
     else:
