@@ -111,7 +111,7 @@ contas = {}
 
 while True:
 
-    opcao = int(input(menu))
+    opcao = (input(menu))
     
     
     if opcao == 1:
