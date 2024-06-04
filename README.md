@@ -9,6 +9,6 @@
 <p>Abaixo estão os projetos do curso da dio</p>
 
 
-<a href = "Projetos-do-curso-da-DIO\Python\Sistema bancario versão basica.py"> banco<a>
+<a href = "https://web.dio.me/articles/introducao-a-machine-learning?back=%2Farticles&page=1&order=oldest"> Artigo Gerado por IA´s generativas <a>
 
 </body>
